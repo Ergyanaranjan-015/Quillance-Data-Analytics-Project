@@ -53,6 +53,18 @@ The Power BI dashboard includes sales, profit, customer, and profit margin KPIs,
 - Product cost data was unavailable for cost-based gross margin analysis.
 - Returns data was unavailable for return-rate analysis.
 - RFM inactivity is a potential churn indicator, not confirmed churn.
+  ## Project Deliverables
+
+This repository contains:
+
+- Python EDA Notebook (`superstore.ipynb`)
+- SQL Analysis Script (`Quillance_Superstore_Analysis.sql`)
+- Interactive Power BI Dashboard (`Quillance_Superstore_Analytics.pbix`)
+- Business Insights & Recommendations Report (`.pdf` and `.docx`)
+- Original and cleaned datasets
+- Customer Summary and RFM Analysis files
+- Power BI Dashboard Screenshot
+  
 
 ## Project Deliverables
 This repository contains the Power BI dashboard, business report, dataset, cleaned datasets, customer summary, and RFM analysis files.
